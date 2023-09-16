@@ -1,11 +1,6 @@
-# Gypsi
-Ride Hailing App
-Gypsi
-Any where, Any time
-
 Type: Cross Platform Mobile Application 
 
-App Name:  Gypsi
+App Name:  Gypsi (Any where, Any time)
 
 Purpose: Socialized Ride Hailing/Sharing 
 
